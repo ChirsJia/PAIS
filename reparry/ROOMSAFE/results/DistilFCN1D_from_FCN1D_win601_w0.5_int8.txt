@@ -1,0 +1,6 @@
+Model: DistilFCN1D_from_FCN1D_win601_w0.5_int8.jit
+Accuracy : 1.0000
+Precision: 1.0000
+Recall   : 1.0000
+F1 Score : 1.0000
+Time     : 0.00 sec

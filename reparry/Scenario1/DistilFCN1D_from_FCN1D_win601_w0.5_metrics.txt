@@ -1,0 +1,11 @@
+Validation:
+Accuracy: 0.9967
+Precision: 0.9964
+Recall: 0.9969
+F1-score: 0.9966
+
+Test:
+Accuracy: 0.9867
+Precision: 0.9868
+Recall: 0.9866
+F1-score: 0.9867

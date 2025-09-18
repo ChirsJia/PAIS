@@ -1,0 +1,6 @@
+Model: ResNet1D_w0.5_int8.jit
+Accuracy : 0.9510
+Precision: 0.9513
+Recall   : 0.9508
+F1 Score : 0.9510
+Time     : 0.00 sec

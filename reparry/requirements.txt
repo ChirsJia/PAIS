@@ -1,0 +1,3 @@
+torch==2.4.0a0+f70bd71a48.nv24.06
+numpy==1.24.4
+scikit-learn==1.5.0
